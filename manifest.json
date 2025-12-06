@@ -1,11 +1,11 @@
 {
-  "name": "",
+  "name": "SmartSound",
   "short_name": "SmartSound",
-  "description": "Liquid Glassを使用したPWA app",
-  "start_url": "/smartsound/",
-  "display": "standalone",
+  "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "display": "standalone",
+  "scope": "/smartsound/",
+  "start_url": "/smartsound/",
   "icons": [
     {
       "src": "icons/icon-192.png",
